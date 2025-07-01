@@ -5,6 +5,20 @@
     font-family: "Alice", serif;
 }
 
+body {
+    background-image: url("assets/bg-image.jpg");
+    background-size: cover; /*vai cobrir toda área vísivel*/
+    background-repeat: no-repeat;
+}
+
+#container {
+    width: 800px;
+    padding: 24px;
+    background-color: #F0E8C2;
+    border-radius: 24px;
+    margin: 48px auto ; /*48px é a parte vertical,auto centraliza e é a parte horizontal*/
+}
+
 img {
     border-radius: 16px;
 }
