@@ -9,17 +9,21 @@
 }
 
 body {
-    background-image: url("assets/bg-image.jpg");
+    background-image: url("assets/bg-img.jpeggit ");
+    background-color: #573824;
     background-size: cover; /*vai cobrir toda área vísivel*/
     background-repeat: no-repeat;
+    background-position: center;
+
 }
 
 #container {
     width: 800px;
-    padding: 24px;
+    padding: 24px 100;
     background-color: #F0E8C2;
     border-radius: 24px;
     margin: 48px auto 28px ; /*48px é a parte vertical,auto centraliza e é a parte horizontal*/
+    
 }
 
 img {
@@ -61,6 +65,7 @@ footer {
     color: #F0E8C2;
     text-align: center;
     padding-bottom: 48px;
+    font-size: 24px;
 }
 
 footer img {
