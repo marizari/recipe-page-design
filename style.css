@@ -5,10 +5,9 @@
     font-family: "Alice", serif;
 }
 
-body {
-    display: flex;
-    align-content: center;
-    align-items: center;
-    
+img {
+    border-radius: 16px;
 }
+
+
 
