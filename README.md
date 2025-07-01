@@ -38,5 +38,4 @@ Este também é um ótimo exemplo de projeto para iniciantes que queiram pratica
 - Boas práticas de um projeto para quem está inicando
 ---
 
-<br>
 <p align="center"><strong>“@ A doçura está nos detalhes — e no CSS bem alinhado.”</strong></p>
