@@ -30,16 +30,9 @@ Este também é um ótimo exemplo de projeto para iniciantes que queiram pratica
 <div style="display: flex; gap: 5px; padding-left:24px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-<<<<<<< HEAD
-
 </div>
 
 - **HTML5** Estrutura da página
-=======
-
-</div>
-- **HTML5:** Estrutura da página  
->>>>>>> 575c4be7a2c3563aaea65ccd521d519578c1659d
 - **CSS3:** Estilização com cores suaves, fontes, imagens e layout responsivo  
 - **GitHub:** Versionamento de código e portfólio
 
