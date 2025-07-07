@@ -6,7 +6,7 @@
 
 ---
 
-## Veja o projeto online
+<h2 align="center"> Veja o projeto online</h2>
 <p align="center">
 Seu Cupcake de Café com Chantilly prontinho para ser visto! 
 <br>
