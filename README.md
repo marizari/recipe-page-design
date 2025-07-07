@@ -26,16 +26,11 @@ Este também é um ótimo exemplo de projeto para iniciantes que queiram pratica
 ---
 
 ##  Tecnologias Utilizadas
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg?style=flat&max-width=40) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg?style=flat&max-width=40)
 
-<div style="display: flex; gap: 5px; padding-left:24px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-</div>
-
-- **HTML5:** Estrutura da página  
-- **CSS3:** Estilização com cores suaves, fontes, imagens e layout responsivo  
+- **HTML5:** Estrutura da página
+- **CSS3:** Estilização com cores suaves, fontes, imagens e layout responsivo
 - **GitHub:** Versionamento de código e portfólio
-
 ---
 
 ##  O que você encontra aqui
