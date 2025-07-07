@@ -6,6 +6,15 @@
 
 ---
 
+## Veja o projeto online
+<p align="center">
+Seu Cupcake de Café com Chantilly prontinho para ser visto! 
+<br>
+<a href="https://marizari.github.io/recipe-page-design.github.io/" target="_blank" rel="noopener noreferrer">Acesse aqui a Página de Receitas!</a> 
+</p>
+
+---
+
 ##  Sobre o projeto
 Este projeto é uma página estática com uma receita completa de **Cupcake de Café com Chantilly**.  
 A proposta é aplicar conceitos de **HTML semântico**, uso de **fontes personalizadas**, **estilização com CSS**, além de trabalhar com imagens, listas e estrutura básica de layout.
